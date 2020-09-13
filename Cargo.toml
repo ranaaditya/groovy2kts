@@ -2,8 +2,16 @@
 name = "groovy2kts"
 version = "0.1.0"
 authors = ["ranaaditya <mail2aditya.rana98@gmail.com>"]
+readme = "README.md"
+license-file = "https://github.com/ranaaditya/groovy2kts/blob/master/LICENSE"
+homepage = "https://github.com/ranaaditya/groovy2kts"
+repository = "https://github.com/ranaaditya/groovy2kts"
+keywords = ["cli", "compiler", "kotlin", "groovy", "groovy2kotlin", "kotlinscript"]
+categories = ["command-line-utilities"]
 edition = "2018"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+structopt = "0.3.13"
