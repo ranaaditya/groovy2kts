@@ -20,9 +20,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 - Fork this **repo** and clone into local
-- cd path_to_clone_repo
-
 ```
+cd groovy2kts
+
 cargo build
 
 cargo run <path_to_build.gradle>
