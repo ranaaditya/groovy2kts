@@ -6,7 +6,7 @@ readme = "README.md"
 license = "MIT"
 homepage = "https://github.com/ranaaditya/groovy2kts"
 repository = "https://github.com/ranaaditya/groovy2kts"
-keywords = ["cli", "compiler", "kotlin", "groovy", "groovy2kotlin", "kotlinscript"]
+keywords = ["cli", "kotlin", "groovy", "gradle"]
 categories = ["command-line-utilities"]
 edition = "2018"
 
