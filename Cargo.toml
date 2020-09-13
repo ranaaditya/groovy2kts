@@ -2,8 +2,9 @@
 name = "groovy2kts"
 version = "0.1.0"
 authors = ["ranaaditya <mail2aditya.rana98@gmail.com>"]
-readme = "README.md"
 license = "MIT"
+description = "Converter for Groovy based Gradle files into Kotlin scripts"
+readme = "README.md"
 homepage = "https://github.com/ranaaditya/groovy2kts"
 repository = "https://github.com/ranaaditya/groovy2kts"
 keywords = ["cli", "kotlin", "groovy", "gradle"]
