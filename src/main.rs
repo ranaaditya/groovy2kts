@@ -22,7 +22,7 @@ pub fn path_exists(path: &String) -> bool {
 }
 
 pub fn read_from_buildfile(path : &String)-> String {
-    if(!path_exists(path)) {
+    if !path_exists(path) {
         println!("{}", "The given file doesnot exists !");
         process::exit(1);
     }
@@ -52,7 +52,7 @@ fn main() -> std::io::Result<()> {
 
     println!("Exist = {}", path_exists(&ktsfile_name));
 
-    if(path_exists(&args.path.display().to_string()))  {
+    if path_exists(&args.path.display().to_string())  {
 
     ///creating build.gradle.kts file
     let mut ktsfile = File::create(ktsfile_name)?;
