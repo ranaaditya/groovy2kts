@@ -1,4 +1,9 @@
 # groovy2kts
+
+<p align="center">
+  <img src="https://i.imgur.com/92uHQKq.png" alt="Sublime's custom image"/>
+</p>
+
 Converter for Groovy based Gradle files into Kotlin scripts
 
 This is an experimental project for converting Groovy gradle files into Kotlin scripts.
@@ -35,3 +40,5 @@ cargo install groovy2kts
 
 groovy2kts <path_to_build.gradle>
 ```
+
+The logo was designed using [TextCraft](https://textcraft.net) 
