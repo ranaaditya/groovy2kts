@@ -41,4 +41,7 @@ cargo install groovy2kts
 groovy2kts <path_to_build.gradle>
 ```
 
+## Todo
+Check Todo section [here](https://github.com/ranaaditya/groovy2kts/projects/1)
+
 The logo was designed using [TextCraft](https://textcraft.net) 
