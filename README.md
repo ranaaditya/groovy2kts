@@ -40,6 +40,8 @@ cargo install groovy2kts
 
 groovy2kts <path_to_build.gradle>
 ```
+## Contributor's Guide
+Check Contributor's Guide [here](https://github.com/ranaaditya/groovy2kts/wiki/DWoC-Contributor's-Guide)
 
 ## Todo
 Check Todo section [here](https://github.com/ranaaditya/groovy2kts/projects/1)
